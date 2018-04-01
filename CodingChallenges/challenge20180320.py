@@ -1,6 +1,5 @@
 '''
 #####Intuit#####
-
 Introduction
 SUppose you are creating an internal networking site for your company. You have two data sets to work with. The first data set is the employees at your company, and the second is all the pairs of employees who are virtually friends so far. It does not matter which employee's ID is in which column; the friendships are bidirectional.
 
