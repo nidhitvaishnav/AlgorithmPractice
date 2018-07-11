@@ -144,6 +144,7 @@ class JewelRCPAlgo:
                 #on the first line we have G and n
                 if count==0:
                     G, n = [int(i) for i in line.split(" ")]
+                    print(n)
                 #read next lines till count is less than n+2 
                 #(less than or equal to n+1 as 1st is the G, n line) 
                 elif (count<n+2):
